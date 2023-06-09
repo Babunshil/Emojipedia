@@ -1,6 +1,7 @@
 # Emojipedia
 
 Emojipedia is a React app that displays different emojis along with their meanings. Users can contribute by adding new emoji information to the app.
+![Screenshot (69)](https://github.com/Babunshil/Emojipedia/assets/106283743/aa30a096-57bd-437c-a657-3b83c445749b)
 
 ## Table of Contents
 
